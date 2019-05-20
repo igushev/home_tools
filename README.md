@@ -1,6 +1,6 @@
 # Introduction
 
-Set of tiny utils for little helps around the house.
+Set of tiny tools to help around the house.
 
 # Descriptions
 
